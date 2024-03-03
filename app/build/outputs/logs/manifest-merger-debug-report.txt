@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\388b796e9e245ab5150764d2d5bf14fc\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c3d3064db52841cc21e8d18e6f4e2cf8\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\2d37d9afdbeef6daee60901c321b07d4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\a8436bf9b769ec15dfb3dda0ff5fda9f\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\d16f84717bbcd63d79df2f5c5173e29b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\1379c1046477a5c15ec0ef22c2bc6edc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\544a58926cc472d46f8ccfd5a3b61ade\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\09a28e2288ecc29a3b34db373bbcacf1\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ec47d3e648bfb61910b09ea85d4b53c4\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\78456a1683a15eb7ddf7afbbb5259f1e\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5e22605f742ba4924e58d06038564136\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\bfa0205f510857c9e88d802765629b60\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\f9b32ff1a9dd93ba77f13e9c3858cee2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\220b9a37c597090d1a7ce1dd57f23e5d\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\618d748520e52e51b978d61e058824f6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\fb17ac5f6a566dfc2e5d32e2b067d176\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\4104d3d95798e2d58f9a741e625e0ef3\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5457b38791d362a04b9b46e7aaaa69dc\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\edc0af2555ae4fa6685c3b3741bd88d5\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\c9885f76200789e1b54d1b9f9c61d05a\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ebae8b3d420610ac8a1c430483f16914\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\02bc25b5c7567c04f0fd63aab4401839\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\af2984cb918d30956e7ac4a69a998d4d\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\be5423020f1458260fb1137f25da9f79\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c28acc16bb5048d4e28c9a0a7d958d96\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\3fb8a043bb044b0ec032ba0e6b0ff7f2\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\b928ae7a34dd149c20795a1a507b8d5e\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\5edf25b97a2c1569a6b69fb48219159a\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\4104d3d95798e2d58f9a741e625e0ef3\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\4104d3d95798e2d58f9a741e625e0ef3\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.company.birthdayprob.ui.MainActivity
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:11:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\388b796e9e245ab5150764d2d5bf14fc\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\388b796e9e245ab5150764d2d5bf14fc\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c3d3064db52841cc21e8d18e6f4e2cf8\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c3d3064db52841cc21e8d18e6f4e2cf8\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\2d37d9afdbeef6daee60901c321b07d4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\2d37d9afdbeef6daee60901c321b07d4\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\a8436bf9b769ec15dfb3dda0ff5fda9f\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\a8436bf9b769ec15dfb3dda0ff5fda9f\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\d16f84717bbcd63d79df2f5c5173e29b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\d16f84717bbcd63d79df2f5c5173e29b\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\1379c1046477a5c15ec0ef22c2bc6edc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\1379c1046477a5c15ec0ef22c2bc6edc\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\544a58926cc472d46f8ccfd5a3b61ade\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\544a58926cc472d46f8ccfd5a3b61ade\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\09a28e2288ecc29a3b34db373bbcacf1\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\09a28e2288ecc29a3b34db373bbcacf1\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ec47d3e648bfb61910b09ea85d4b53c4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ec47d3e648bfb61910b09ea85d4b53c4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\78456a1683a15eb7ddf7afbbb5259f1e\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\78456a1683a15eb7ddf7afbbb5259f1e\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5e22605f742ba4924e58d06038564136\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5e22605f742ba4924e58d06038564136\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\bfa0205f510857c9e88d802765629b60\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\bfa0205f510857c9e88d802765629b60\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\f9b32ff1a9dd93ba77f13e9c3858cee2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\f9b32ff1a9dd93ba77f13e9c3858cee2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\220b9a37c597090d1a7ce1dd57f23e5d\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\220b9a37c597090d1a7ce1dd57f23e5d\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\618d748520e52e51b978d61e058824f6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\618d748520e52e51b978d61e058824f6\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\fb17ac5f6a566dfc2e5d32e2b067d176\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\fb17ac5f6a566dfc2e5d32e2b067d176\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\4104d3d95798e2d58f9a741e625e0ef3\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\4104d3d95798e2d58f9a741e625e0ef3\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5457b38791d362a04b9b46e7aaaa69dc\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\5457b38791d362a04b9b46e7aaaa69dc\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\edc0af2555ae4fa6685c3b3741bd88d5\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\edc0af2555ae4fa6685c3b3741bd88d5\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\c9885f76200789e1b54d1b9f9c61d05a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\c9885f76200789e1b54d1b9f9c61d05a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ebae8b3d420610ac8a1c430483f16914\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\ebae8b3d420610ac8a1c430483f16914\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\02bc25b5c7567c04f0fd63aab4401839\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\02bc25b5c7567c04f0fd63aab4401839\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\af2984cb918d30956e7ac4a69a998d4d\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\af2984cb918d30956e7ac4a69a998d4d\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\be5423020f1458260fb1137f25da9f79\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\be5423020f1458260fb1137f25da9f79\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c28acc16bb5048d4e28c9a0a7d958d96\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\edemw\.gradle\caches\transforms-3\c28acc16bb5048d4e28c9a0a7d958d96\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\3fb8a043bb044b0ec032ba0e6b0ff7f2\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\3fb8a043bb044b0ec032ba0e6b0ff7f2\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\b928ae7a34dd149c20795a1a507b8d5e\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\b928ae7a34dd149c20795a1a507b8d5e\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\5edf25b97a2c1569a6b69fb48219159a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\edemw\.gradle\caches\transforms-3\5edf25b97a2c1569a6b69fb48219159a\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\AndroidManifest.xml

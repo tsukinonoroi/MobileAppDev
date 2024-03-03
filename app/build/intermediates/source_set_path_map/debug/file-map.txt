@@ -1,0 +1,15 @@
+com.example.diamonds.app-design-28.0.0-0 C:\Users\edemw\.gradle\caches\transforms-3\06caf6596e3c75296c2d0551b40b852d\transformed\design-28.0.0\res
+com.example.diamonds.app-transition-28.0.0-1 C:\Users\edemw\.gradle\caches\transforms-3\09a28e2288ecc29a3b34db373bbcacf1\transformed\transition-28.0.0\res
+com.example.diamonds.app-support-compat-28.0.0-2 C:\Users\edemw\.gradle\caches\transforms-3\3277b679773b22750034b8d731933aac\transformed\support-compat-28.0.0\res
+com.example.diamonds.app-appcompat-v7-28.0.0-3 C:\Users\edemw\.gradle\caches\transforms-3\388b796e9e245ab5150764d2d5bf14fc\transformed\appcompat-v7-28.0.0\res
+com.example.diamonds.app-coordinatorlayout-28.0.0-4 C:\Users\edemw\.gradle\caches\transforms-3\5e22605f742ba4924e58d06038564136\transformed\coordinatorlayout-28.0.0\res
+com.example.diamonds.app-recyclerview-v7-28.0.0-5 C:\Users\edemw\.gradle\caches\transforms-3\a8436bf9b769ec15dfb3dda0ff5fda9f\transformed\recyclerview-v7-28.0.0\res
+com.example.diamonds.app-cardview-v7-28.0.0-6 C:\Users\edemw\.gradle\caches\transforms-3\edc0af2555ae4fa6685c3b3741bd88d5\transformed\cardview-v7-28.0.0\res
+com.example.diamonds.app-pngs-7 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\generated\res\pngs\debug
+com.example.diamonds.app-resValues-8 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\generated\res\resValues\debug
+com.example.diamonds.app-rs-9 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\generated\res\rs\debug
+com.example.diamonds.app-mergeDebugResources-10 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.diamonds.app-mergeDebugResources-11 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.diamonds.app-merged_res-12 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\build\intermediates\merged_res\debug
+com.example.diamonds.app-debug-13 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\debug\res
+com.example.diamonds.app-main-14 C:\Users\edemw\Desktop\lab3-assignment-birthday-probability-skeleton\app\src\main\res
